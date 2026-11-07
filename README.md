@@ -12,7 +12,7 @@ reason for this project is cuz each time I wanna create a hash file or check it 
 
 ## Screenshots
 
-![Screenshot](assets\UI.png)
+![Screenshot](assets/UI.png)
 
 ## Installation
 
